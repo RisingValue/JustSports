@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.1.124",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/JustSports/main/justspor-1.1.124.apk",
-  "releaseNotes": "Android 10+ icin yetkisiz/izinsiz cihaz kodu (ANDROID_ID) destegi. MAC alinamayan cihazlarda cihaz kodu artik her zaman gorunur."
+  "versionCode": 15,
+  "versionName": "1.1.125",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/JustSports/main/justspor-1.1.125.apk",
+  "releaseNotes": "HF_pay mode: Yillik Uyelik metni. Silver JS logosu. Eksiksiz guncelleme (indir + kurulum izni)."
 }
