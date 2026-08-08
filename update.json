@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "1.1.132",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/JustSports/main/justspor-1.1.132.apk",
-  "releaseNotes": "TV kumandasi duseltildi: sag/sol artik ust barda TUMU/FUTBOL/TV/YENILE arasinda dolasiyor, yukari/asagi listede. Kumandanin OK/merkez tusu (DPAD center) simdi kanali aciyor. Guncelleme soru ile sorulur."
+  "versionCode": 23,
+  "versionName": "1.1.133",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/JustSports/main/justspor-1.1.133.apk",
+  "releaseNotes": "Kanal acilirken siyah Yükleniyor ekrani tam 10 saniye gosterilir; bu surede yayin arka planda baslar ve ekran kalkinca hazir goruntulenir."
 }
