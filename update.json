@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.1.129",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/JustSports/main/justspor-1.1.129.apk",
-  "releaseNotes": "Aktif kod listesi RisingValue/codes reposundan okunuyor."
+  "versionCode": 20,
+  "versionName": "1.1.130",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/JustSports/main/justspor-1.1.130.apk",
+  "releaseNotes": "TV kumandasi: DPAD odak/sari cerceve duzeltildi. Ust bar sadece TUMU FUTBOL TV (Yenile). Geri geri ile cikis soru. Oynatma 3 sn siyah cover. Internet yoksa ekran kilitli."
 }
