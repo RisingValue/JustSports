@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.1.126",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/JustSports/main/justspor-1.1.126.apk",
-  "releaseNotes": "Tekrar Kontrol butonu kaldirildi. Guncelleme artik her acilista otomatik iniyor."
+  "versionCode": 19,
+  "versionName": "1.1.129",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/JustSports/main/justspor-1.1.129.apk",
+  "releaseNotes": "Aktif kod listesi RisingValue/codes reposundan okunuyor."
 }
