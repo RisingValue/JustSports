@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.1.123",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/JustSports/main/justspor-1.1.123.apk",
-  "releaseNotes": "Yeni launcher ikonu. MAC bekleme ekrani sadelestirildi."
+  "versionCode": 14,
+  "versionName": "1.1.124",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/JustSports/main/justspor-1.1.124.apk",
+  "releaseNotes": "Android 10+ icin yetkisiz/izinsiz cihaz kodu (ANDROID_ID) destegi. MAC alinamayan cihazlarda cihaz kodu artik her zaman gorunur."
 }
