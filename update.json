@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.1.133",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/JustSports/main/justspor-1.1.133.apk",
-  "releaseNotes": "Kanal acilirken siyah Yükleniyor ekrani tam 10 saniye gosterilir; bu surede yayin arka planda baslar ve ekran kalkinca hazir goruntulenir."
+  "versionCode": 24,
+  "versionName": "1.1.134",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/JustSports/main/justspor-1.1.134.apk",
+  "releaseNotes": "Guncelleme penceresinde Evet yapilinca yesil, Hayir secince kirmizi odak rengi. Yayin siyah ekrandayken arka planda basliyor. Yayinda geri tusu disindaki tum tuslar devre disi (reklam tetiklenmez)."
 }
