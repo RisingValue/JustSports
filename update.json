@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "1.1.136",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/JustSports/main/justspor-1.1.136.apk",
-  "releaseNotes": "Cikis dialogu yesil/kirmizi odak rengi: Cik (yesil), Vazgec (kirmizi). Acilista ana menyu ilk gosterilir, MAC sorgusu arka planda (bombo beklemek yok). Kanal secince m3u8 dogrudan ExoPlayer ile acilir."
+  "versionCode": 137,
+  "versionName": "1.1.137",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/JustSports/main/justspor-1.1.137.apk",
+  "releaseNotes": "Ana menudeki JustSpor basligi kaldirildi. Kategori listesinde ilk siradayken YUKARI tusu sag ustteki YENILE butonunu seciyor. Surum adi ve surum kodu artik ayni rakam."
 }
